@@ -15,8 +15,8 @@ You can handle this... right? The planet Earth needs to know what we have found!
 
 # UFO Level One: Automatic Table and Date Search
 ## [Enter UFO Level 1]  - https://github.com/medha795/UFOSightings/tree/master/UFO-Level-1
-### ![header image]
+
 
 # UFO Level Two: Multiple Search Categories
 ## [Enter UFO Level 2]  -https://github.com/medha795/UFOSightings/tree/master/UFO-Level-2
-### ![header image]
+
