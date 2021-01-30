@@ -1,7 +1,7 @@
 # JavaScript & DOM Manipulation
 
 <b>Deployment Link</b>
-- https://mapatxot.github.io/javascript-challenge/
+-
 
 <b>Challenge Instructions:</b>
 
@@ -14,9 +14,9 @@ That's why we are hiring you. We need you to write code that will create a table
 You can handle this... right? The planet Earth needs to know what we have found!
 
 # UFO Level One: Automatic Table and Date Search
-## [Enter UFO Level 1]  - https://github.com/MAPatxot/javascript-challenge/tree/master/UFO-Level-1
+## [Enter UFO Level 1]  - 
 ### ![header image](https://raw.githubusercontent.com/MAPatxot/javascript-challenge/master/UFO-Level-1/Screen%20Shot%202019-11-26%20at%205.00.44%20PM.png)
 
 # UFO Level Two: Multiple Search Categories
-## [Enter UFO Level 2]  - https://github.com/MAPatxot/javascript-challenge/tree/master/UFO-Level-2
+## [Enter UFO Level 2]  -
 ### ![header image](https://raw.githubusercontent.com/MAPatxot/javascript-challenge/master/UFO-Level-2/Screen%20Shot%202019-11-26%20at%205.02.08%20PM.png)
